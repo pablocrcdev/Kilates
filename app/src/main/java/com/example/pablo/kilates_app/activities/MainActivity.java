@@ -15,7 +15,7 @@ import com.example.pablo.kilates_app.webview.ManagerWebClient;
 public class MainActivity extends AppCompatActivity {
     //==================================Variables Globales========================================//
     private WebView gvWebView;
-    private static final String gvURL = "http://186.159.129.101:9090/";
+    private static final String gvURL = "http://192.168.1.100:9090/crccoding/f?p=500";
     // variables de error
     public static String ERROR_WEB = "WEB";
     public static String ERROR_RED = "RED";
